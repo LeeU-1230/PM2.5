@@ -1,5 +1,5 @@
 li {
-    line-height: 150%;
+    line-height: 200%;
     max-width:18rem;
     display:inline-block;
     margin: 6px 6px;
@@ -8,19 +8,19 @@ strong {
     font-size: 18px;
 }
 
-.green {background-color: goldenrod;
-    padding: 6px;
+.green {background-color: lightgreen;
+    padding: 3px;
 }
 
 .yellow {background-color: yellow;
-    padding: 6px;
+    padding: 3px;
 
 }
 
 .orange {background-color: orange;
-    padding: 6px;
+    padding: 3px;
 }
 
 .red {background-color: red;
-    padding: 6px;
+    padding: 3px;
 }
