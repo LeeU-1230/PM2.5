@@ -1,0 +1,26 @@
+li {
+    line-height: 150%;
+    max-width:18rem;
+    display:inline-block;
+    margin: 6px 6px;
+}
+strong {
+    font-size: 18px;
+}
+
+.green {background-color: goldenrod;
+    padding: 6px;
+}
+
+.yellow {background-color: yellow;
+    padding: 6px;
+
+}
+
+.orange {background-color: orange;
+    padding: 6px;
+}
+
+.red {background-color: red;
+    padding: 6px;
+}
